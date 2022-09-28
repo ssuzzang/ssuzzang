@@ -11,7 +11,17 @@
 <img src="https://img.shields.io/badge/MongoDB-E4F7BA?style=flat-square&logo=MongoDB&logoColor=#47A248"/> 
 <img src="https://img.shields.io/badge/Raspberry PI-A22846?style=flat-square&logo=Raspberry Pi&logoColor=#A22846"/> 
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzzang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 # :mailbox_with_mail: Contacts
