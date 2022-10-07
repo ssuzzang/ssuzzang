@@ -22,9 +22,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuzzang&show_icons=true&theme=gruvbox)
 
-1
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkjs124)](https://solved.ac/kkkjs124/)
-1
+
+
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwonjinsu124@gmail.com)](mailto:kwonjinsu124@gmail.com)
