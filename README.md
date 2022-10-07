@@ -17,13 +17,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzzang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkjs124)](https://solved.ac/kkkjs124/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuzzang&show_icons=true&theme=gruvbox)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkjs124)](https://solved.ac/kkkjs124/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzzang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
